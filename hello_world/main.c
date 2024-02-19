@@ -2,7 +2,7 @@
 int main(void)
 {
 
-
-return 0;
+	printf(CFILE=main.c);
+	return 0;
 
 }

@@ -740,7 +740,7 @@ extern int __overflow (FILE *, int);
 int main(void)
 {
 
-
-return 0;
+ printf(CFILE=main.c);
+ return 0;
 
 }
