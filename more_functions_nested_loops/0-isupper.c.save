@@ -1,0 +1,8 @@
+#include "main.h"
+
+/**
+checks for uppercase character
+*/
+int _isupper(int x)
+{
+	if x>
